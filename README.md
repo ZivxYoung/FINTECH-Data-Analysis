@@ -5,4 +5,4 @@ Financial Data Analysis Self Practice
    
 3. Stock Market Analysis (Stock Price Prediction Model based on Historical Data)
 
-* Dataset from Kaggle
+*Dataset from Kaggle
